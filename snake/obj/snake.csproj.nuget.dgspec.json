@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\YSARIYI\\Desktop\\learn\\snake\\snake\\snake.csproj": {}
+    "C:\\Users\\YSARIYI\\Desktop\\academy\\github\\snake\\snake\\snake.csproj": {}
   },
   "projects": {
-    "C:\\Users\\YSARIYI\\Desktop\\learn\\snake\\snake\\snake.csproj": {
+    "C:\\Users\\YSARIYI\\Desktop\\academy\\github\\snake\\snake\\snake.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\YSARIYI\\Desktop\\learn\\snake\\snake\\snake.csproj",
+        "projectUniqueName": "C:\\Users\\YSARIYI\\Desktop\\academy\\github\\snake\\snake\\snake.csproj",
         "projectName": "snake",
-        "projectPath": "C:\\Users\\YSARIYI\\Desktop\\learn\\snake\\snake\\snake.csproj",
+        "projectPath": "C:\\Users\\YSARIYI\\Desktop\\academy\\github\\snake\\snake\\snake.csproj",
         "packagesPath": "C:\\Users\\YSARIYI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\YSARIYI\\Desktop\\learn\\snake\\snake\\obj\\",
+        "outputPath": "C:\\Users\\YSARIYI\\Desktop\\academy\\github\\snake\\snake\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
